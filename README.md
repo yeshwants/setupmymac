@@ -1,6 +1,4 @@
 # Setupmymac
-This is list of steps to setup new mac m1 for my client work
-
 Congratulations on your new mac. Here are the tools you need for your day today work. 
 
 1. Chrome: Open Safari and download the world's best browser Chrome 
